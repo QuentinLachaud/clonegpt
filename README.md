@@ -1,5 +1,13 @@
 # Getting Started with Create React App
 
+---
+**CloneGPT**
+
+This project's purpose was to try my hand at front-end development, by leveraging javascript / css / React / OpenAI's API to create a simple, interactive chat interface like chatGPT.
+
+---
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
